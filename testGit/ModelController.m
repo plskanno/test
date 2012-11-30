@@ -33,6 +33,7 @@
 
 - (id)init
 {
+    // コミットテスト *** //
     self = [super init];
     if (self) {
         // Create the data model.
